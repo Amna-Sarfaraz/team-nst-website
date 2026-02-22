@@ -308,10 +308,6 @@ For support, email info@teamnst.com or join our Discord community.
 - [ ] Automated event reminders
 - [ ] Achievement badges system
 
-## 👥 Team
-
-Built with ❤️ by TEAM NST
-
 ---
 
 **TEAM NST** - NED Society of Technology
